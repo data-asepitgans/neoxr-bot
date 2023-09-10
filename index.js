@@ -30,11 +30,11 @@ function start() {
 	})
 }
 
-CFonts.say('NEOXR BOT', {
+CFonts.say('ASEP BOT', {
    font: 'tiny',
    align: 'center',
    colors: ['system']
-}), CFonts.say('Github : https://github.com/neoxr/neoxr-bot', {
+}), CFonts.say('Github : https://unitedcyberteam.com', {
    colors: ['system'],
    font: 'console',
    align: 'center'
