@@ -1,6 +1,6 @@
 {
-   "owner": "6285887776722",
-   "owner_name": "Wildan Izzudin",
+   "owner": "994401331649",
+   "owner_name": "Bot_Asepitagans",
    "database": "data",
    "limit": 15,
    "ram_limit": "900mb",
@@ -13,6 +13,6 @@
    "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
    "pairing": {
       "state": true,
-      "number": 62857035017444
+      "number": 994401331649
    }
 }
