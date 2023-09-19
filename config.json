@@ -1,18 +1,18 @@
 {
-   "owner": "994401331649",
-   "owner_name": "Bot_Asepitagans",
-   "database": "data",
-   "limit": 15,
-   "ram_limit": "900mb",
+   "owner": "6289530656600",
+   "owner_name": "Owner",
+   "database": "database",
+   "limit": 25,
+   "ram_limit": "200GB",
    "max_upload": 50,
    "max_upload_free": 10,
-   "cooldown": 3,
+   "cooldown": 5,
    "timer": 180000,
    "timeout": 1800000,
-   "blocks": ["60", "91", "92"],
+   "blocks": ["60", "83", "91", "92"],
    "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
    "pairing": {
       "state": true,
-      "number": 994401331649
+      "number": 62857934337451
    }
 }
