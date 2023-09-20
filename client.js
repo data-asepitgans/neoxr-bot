@@ -138,7 +138,10 @@ client.on('group.remove', async ctx => {
       url: global.db.setting.link
    })
 })
-
+client.on('caller', ctx => {
+	if (typeof ctx === 'boolean') return
+	client.sock.updateBlockStatus(ctx.jid, 'block')
+})
 // client.on('group.promote', ctx => console.log(ctx))
 // client.on('group.demote', ctx => console.log(ctx))
 // client.on('caller', ctx => console.log(ctx))
